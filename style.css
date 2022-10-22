@@ -1,0 +1,21 @@
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(145, 33, 33, 0.5)),url('./rain-seamless.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top:0px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+    color: orange;
+}
+h1{
+    text-align: center;
+}
